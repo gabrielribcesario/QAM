@@ -14,8 +14,9 @@
 		<Item Name="Util" Type="Folder">
 			<Item Name="Carrier.vi" Type="VI" URL="../Carrier.vi"/>
 			<Item Name="Generator.vi" Type="VI" URL="../Generator.vi"/>
+			<Item Name="RaisedCosineFilter.vi" Type="VI" URL="../RaisedCosineFilter.vi"/>
 		</Item>
-		<Item Name="ModulationExample.vi" Type="VI" URL="../ModulationExample.vi"/>
+		<Item Name="Modulation.vi" Type="VI" URL="../Modulation.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="NI_AALBase.lvlib" Type="Library" URL="/&lt;vilib&gt;/Analysis/NI_AALBase.lvlib"/>
